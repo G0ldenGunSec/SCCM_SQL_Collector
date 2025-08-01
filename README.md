@@ -20,7 +20,7 @@ Pretty much same as sqlrecon, but you dont need to select a module. Will output 
 
 **optional flags**
 
-`/sessions` :: attempt to identify user SIDs to map user sessions from user folder data stored within USER_PROFILE_DATA
-`/vaultedcredentials` :: gather vaulted credentials to map potential attack paths. No guarantees creds arent stale.
+- `/sessions` :: attempt to identify user SIDs to map user sessions from user folder data stored within USER_PROFILE_DATA
+- `/vaultedcredentials` :: gather vaulted credentials to map potential attack paths. No guarantees creds arent stale.
 
 
