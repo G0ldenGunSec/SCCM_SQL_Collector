@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCCM_SQL_Collector", "SCCM_SQL_Collector\SCCM_SQL_Collector.csproj", "{F6915BD6-4E93-4373-91A3-BBC884131C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6915BD6-4E93-4373-91A3-BBC884131C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6915BD6-4E93-4373-91A3-BBC884131C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6915BD6-4E93-4373-91A3-BBC884131C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6915BD6-4E93-4373-91A3-BBC884131C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {202AED0A-CF44-4C0B-8D26-30932A402990}
+	EndGlobalSection
+EndGlobal
