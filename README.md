@@ -1,6 +1,6 @@
 # SCCM_SQL_Collector
 
-PoC script to collect SCCM attack paths from a SCCM site DB. Credits to @skawa for most of the scaffolding code to allow for connection to SQL (thanks Sanj!)
+PoC script to collect SCCM attack paths from a SCCM site DB. Credits to [@sanjivkawa](https://x.com/sanjivkawa) for most of the scaffolding code to allow for connection to SQL (thanks Sanj!)
 
 ## Usage
 
